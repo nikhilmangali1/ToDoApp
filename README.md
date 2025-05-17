@@ -20,7 +20,7 @@ A full-stack **Spring Boot** web application for managing tasks in a To-Do list.
 
 ## 🗂 Project Structure
 
-```
+```bash
 ToDoApp/
 ├── src/
 │   ├── main/
