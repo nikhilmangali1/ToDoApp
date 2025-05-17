@@ -66,7 +66,7 @@ Then open your browser at:
 * Spring MVC
 * Spring Data JPA
 * Thymeleaf
-* H2 Database (or configurable DB)
+* MySQL Database
 * Maven
 
 
