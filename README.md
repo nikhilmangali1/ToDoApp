@@ -1,8 +1,4 @@
-You're right! The Markdown block was misrendered because it was inside triple backticks and not intended as actual Markdown code.
 
-Here's the properly **formatted** `README.md` content that you can copy and use directly in your GitHub project:
-
----
 
 # ✅ ToDoApp
 
@@ -78,14 +74,4 @@ Then open your browser at:
 * H2 Database (or configurable DB)
 * Maven
 
-## 📄 License
 
-This project is licensed under the MIT License.
-
-## 🙌 Author
-
-Developed by \[Your Name]. Feel free to use and improve this application.
-
----
-
-Would you like me to save this as a `README.md` file for download?
