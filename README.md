@@ -34,6 +34,7 @@ ToDoApp/
 │       └── java/com/app/ToDoApp/ToDoAppApplicationTests.java
 ├── pom.xml
 ├── mvnw / mvnw.cmd
+├── Dockerfile
 └── HELP.md
 ```
 
