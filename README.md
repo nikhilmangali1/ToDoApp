@@ -58,11 +58,6 @@ Then open your browser at:
 * **`welcome.html`**: Landing page
 * **`allTasks.html`**: Displays a list of all tasks
 
-## 🧪 Running Tests
-
-```bash
-./mvnw test
-```
 
 ## 💡 Technologies Used
 
